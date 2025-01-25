@@ -8,7 +8,7 @@
 *Interfaz Neuroceptiva basada en Principios Áureos*
 
 ```bash
-    git clone https://github.com/heymartinbq/Harmonizer.git
+    git clone https://github.com/heymartinbq/harmonizr.git
     <img src="preview.gif" width="100%" alt="Dynamic Emotion Interface">
 ```
 
@@ -151,6 +151,7 @@ Estructura Holográfica (JSON Multidimensional)
 
     git checkout -b feature/nueva-emocion
     Añade emociones al JSON siguiendo el esquema:
+```
 
 ```json
     {
