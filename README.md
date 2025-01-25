@@ -150,8 +150,9 @@ Estructura Holográfica (JSON Multidimensional)
 ```bash
 
     git checkout -b feature/nueva-emocion
-    Añade emociones al JSON siguiendo el esquema:
 ```
+
+### Añade emociones al JSON siguiendo el esquema:
 
 ```json
     {
