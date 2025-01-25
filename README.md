@@ -10,6 +10,7 @@
 ```bash
     git clone https://github.com/heymartinbq/Harmonizer.git
     <img src="preview.gif" width="100%" alt="Dynamic Emotion Interface">
+```
 
 ##🌈 Características Principales
 Mapa Emocional Cuántico
@@ -55,7 +56,7 @@ Estructura Holográfica (JSON Multidimensional)
 ## 🚀 Instalación
 ```bash
     npm install @heymartinbq/harmonizer
-
+```
 
 ### Requisitos:
 - Node.js 18+
@@ -83,6 +84,7 @@ Estructura Holográfica (JSON Multidimensional)
     .addEventListener('change', (e) => {
         harmonizer.setQuantumEmotion(e.target.value);
     });
+```
 
 ## 🎨 Selector de Emociones 
 
@@ -102,7 +104,7 @@ Estructura Holográfica (JSON Multidimensional)
         <option value="esperanza">🕊️ Esperanza (1.5Hz)</option>
     </optgroup>
     </select>
-
+```
 
 ## 🧠 Fundamentos Científicos
 
@@ -116,6 +118,7 @@ Estructura Holográfica (JSON Multidimensional)
 
 ```math
     H(t) = A ⋅ e^{-βt} ⋅ sin(2πft + ϕ)
+```
 
 ### Donde:
 
@@ -137,6 +140,7 @@ Estructura Holográfica (JSON Multidimensional)
     │   └── CardioSystem.js       # Simulación cardíaca
     └── examples/
         └── basic-interface.html  # Demo interactivo
+```
 
 ## 🤝 Contribución
 
@@ -199,7 +203,7 @@ Estructura Holográfica (JSON Multidimensional)
           },
         ]
     }
-
+```
 Envía un Pull Request
 
 📄 Licencia
